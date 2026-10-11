@@ -21,7 +21,7 @@ A desktop meme generator for developers and startup workers. 140 handcrafted jok
 ## Setup
 
 ```bash
-git clone https://github.com/Shadowfetchapps/devmemes.git
+git clone https://github.com/ShadowfetchStudio/devmemes.git
 cd devmemes
 pip3 install -r requirements.txt
 ```
